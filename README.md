@@ -233,7 +233,6 @@ The following text was published by Alfa Diop-Wicki in the official hackathon pr
 | File | Description |
 |---|---|
 | `EDA_Prototype_Indicators_With_Links_Alfa.xlsx` | Full indicator list with sources, API parameters, and links |
-| `EDA_Indicators_and_Frequencies.xlsx` | Indicator categories, diplomatic signals, update frequencies, and use cases |
 | `Portugal-HTML-Report.pdf` | Exported HTML report — Portugal bilateral overview |
 | `France-HTML-Report.pdf` | Exported HTML report — France bilateral overview |
 
