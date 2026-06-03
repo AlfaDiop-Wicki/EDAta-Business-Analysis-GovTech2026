@@ -13,8 +13,9 @@ The analysis was published in the official project logs on the hackathon platfor
 > *Note: some indicators or data sources may have been adjusted during technical implementation. Such fine-tuning is a normal part of the development process and does not affect the analytical framework defined here.*  
 🔗 [Project logs — govtech.digisus-lab.ch](https://govtech.digisus-lab.ch/project/41/log)
 
-> 🔗 Live demo — AIDA AI Diplomatic Assistant *(decommissioned after the hackathon)*---
+>🔗 Live demo — AIDA AI Diplomatic Assistant *(decommissioned after the hackathon)*
 
+---
 ## Background & domain expertise
 
 My analytical choices were informed by **5 years at SECO** (State Secretariat for Economic Affairs), where I was personally interested in topics related to Switzerland's economic cooperation priorities and bilateral trade policy. During this period, I also developed a curiosity for the activities of Swiss consulates and representations abroad, as well as in economic cooperation topics, which led me to seek a better understanding of the context in which diplomatic and consular personnel operate on a daily basis.
