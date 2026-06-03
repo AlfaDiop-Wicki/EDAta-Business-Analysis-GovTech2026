@@ -13,8 +13,7 @@ The analysis was published in the official project logs on the hackathon platfor
 > *Note: some indicators or data sources may have been adjusted during technical implementation. Such fine-tuning is a normal part of the development process and does not affect the analytical framework defined here.*  
 🔗 [Project logs — govtech.digisus-lab.ch](https://govtech.digisus-lab.ch/project/41/log)
 
-🔗 [Live demo — AIDA AI Diplomatic Assistant](https://edatademo-frontend.yellowmeadow-9b55c508.switzerlandnorth.azurecontainerapps.io/) *(live at time of publication — may be decommissioned after the hackathon)*
-
+🔗 Live demo — AIDA AI Diplomatic Assistant *(decommissioned after the hackathon)*
 ---
 
 ## Background & domain expertise
@@ -232,9 +231,9 @@ The following text was published by Alfa Diop-Wicki in the official hackathon pr
 
 | File | Description |
 |---|---|
-| `EDA_Prototype_Indicators_With_Links_Alfa.xlsx` | Full indicator list with sources, API parameters, and links |
-| `Portugal-HTML-Report.pdf` | Exported HTML report — Portugal bilateral overview |
-| `France-HTML-Report.pdf` | Exported HTML report — France bilateral overview |
+| [EDA_Prototype_Indicators_With_Links_Alfa.xlsx](EDA_Prototype_Indicators_With_Links_Alfa.xlsx) | Full indicator list with sources, API parameters, and links |
+| [Portugal-HTML-Report.pdf](Portugal-HTML-Report.pdf) | Exported HTML report — Portugal bilateral overview |
+| [France-HTML-Report.pdf](France-HTML-Report.pdf) | Exported HTML report — France bilateral overview |
 
 ---
 
