@@ -13,8 +13,7 @@ The analysis was published in the official project logs on the hackathon platfor
 > *Note: some indicators or data sources may have been adjusted during technical implementation. Such fine-tuning is a normal part of the development process and does not affect the analytical framework defined here.*  
 🔗 [Project logs — govtech.digisus-lab.ch](https://govtech.digisus-lab.ch/project/41/log)
 
-🔗 Live demo — AIDA AI Diplomatic Assistant *(decommissioned after the hackathon)*
----
+> 🔗 Live demo — AIDA AI Diplomatic Assistant *(decommissioned after the hackathon)*---
 
 ## Background & domain expertise
 
